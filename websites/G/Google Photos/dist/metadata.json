@@ -1,0 +1,23 @@
+{
+    "$schema": "https://schemas.premid.app/metadata/1.0",
+    "author": {
+        "name": "diskxo_",
+        "id": "299940314137886730"
+    },
+    "url": "photos.google.com",
+    "description": {
+        "en": "Google Photos is the home for all your photos and videos, automatically organized and easy to share."
+    },
+    "service": "Google Photos",
+    "version": "1.0.0",
+    "logo": "https://i.imgur.com/gLX2iXR.png",
+    "thumbnail": "https://i.imgur.com/SsUDsLd.png",
+    "color": "#F68821",
+    "tags": [
+        "photos",
+        "google",
+        "cloud",
+        "videos"        
+    ],
+    "category": "other"
+}
