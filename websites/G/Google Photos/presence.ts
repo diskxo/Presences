@@ -1,5 +1,5 @@
 const presence = new Presence({
-  clientId: "814609447962935296" //Discord Client ID
+  clientId: "8146094814609447962935296" //Discord Client ID
 }), browsingStamp = Math.floor(Date.now() / 1000);
 
 presence.on("UpdateData", async () => {
